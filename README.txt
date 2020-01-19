@@ -31,21 +31,3 @@ http://u.115.com/
  
 各种图片、音乐、动画资源……都可以发上去，然后将下载页发给我汇总，希望有人愿意参加，其他问题，
 欢迎发邮件到xiayuanzhong@126.com 或307740614@qq.com
-
-【说明】
-本目录下的文件都采用了国际标准的编码，本人为了防止各位将主次搞混，就将扩展名全改成了.xyz，
-下面公布文件编码：
-back1             jpeg
-back2             jpeg
-back3             jpeg
-back4             jpeg
-back5             jpeg
-back6             jpeg
-back7             jpeg
-back8             jpeg
-back9             jpeg
-back10           jpeg
-back11           jpeg
-back12           jpeg
-j                      gif
-p                     gif
